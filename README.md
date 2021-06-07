@@ -4,4 +4,4 @@ Simple calculator with a windows 90 / XP style. E-R-D-F keys for basic operation
 When you press any key, a musical note will sound.
 It includes a total of 21 unique sounds.
 
-<img src= "file:///C:/Users/Narvaja/Downloads/retrocalc.JPG">
+<img src="file:///C:/Users/Narvaja/Downloads/retrocalc.JPG">
