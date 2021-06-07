@@ -1,4 +1,4 @@
-# My-Portfolio
+# My Portfolio
 Here are all the projects I've done over the last years, check it all out! 
 
 1 - RetroCalculator
